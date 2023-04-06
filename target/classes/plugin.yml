@@ -1,0 +1,8 @@
+name: Rtp
+version: '1.0-SNAPSHOT'
+main: cn.austinxu.rtp.Rtp
+api-version: 1.19
+authors: [ Austin_Xu ]
+description: a random teleport plugin
+commands:
+  rtp:
